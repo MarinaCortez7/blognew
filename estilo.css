@@ -1,0 +1,86 @@
+.comeco{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.banner{
+    background-color: lavender;
+    width: 100%;
+    height: 25px;
+    align-items: center;
+}
+
+body{
+    text-align: center;
+}
+
+.bannerautor{
+    background-color: lavender;
+    width: 100%;
+    height: 350px;
+}
+
+.h1nome{
+    text-align: center;
+}
+
+.imgtexto{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    text-align: justify;
+}
+
+.imgg{
+    border-radius: 50px;
+    margin-right: 150px;
+}
+
+.textobanner{
+    flex-direction: row;
+    align-items: center;
+    gap: 60px;
+    width: 350px;
+    padding-bottom: 40px;
+}
+
+img{
+    margin-bottom: 40px;
+}
+
+.comentarios{
+    background-color: beige;
+    width: 22%;
+    height: 180px;
+}
+
+.todoscomentarios{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+span{
+    text-align: justify;
+}
+
+footer{
+    align-items: center;
+    background-color: lavender;
+    width: 100%;
+    height: 75px;
+    margin-bottom: 20px;
+}
+
+.comeco{
+    background-color: lavender;
+    width: 100%;
+    height: 35px;
+    align-items: center;
+}
